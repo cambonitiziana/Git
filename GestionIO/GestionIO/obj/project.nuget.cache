@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uj5dLV+tK6u9ucnByGp6KhlhJB3bulyY+smSbCp2vnXfaXgAlBYcMy2ARQitfCq/Z0KmG4jQj5merlnlC96xMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tiziana.camboni\\Desktop\\ESERCIZI\\GestionIO\\GestionIO\\GestionIO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tiziana.camboni\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\tiziana.camboni\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\tiziana.camboni\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\tiziana.camboni\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
